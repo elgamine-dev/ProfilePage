@@ -24,6 +24,7 @@ section {
 	background-color:;
 	border-radius: 10px;
 	color:#827717;
+
 }
 
 
@@ -34,12 +35,18 @@ menu {
 	margin-right:70px;
 	opacity: 0.5;
 	color:#dce775;
+
 }
 
 h1 {
+	font-family: 'Indie Flower', cursive;
 	margin-top: 90px;
 	margin-left: 25%;
 	color:#827717;
+}
+
+p {
+	font-family: 'Indie Flower', cursive;
 }
 
 ul {
