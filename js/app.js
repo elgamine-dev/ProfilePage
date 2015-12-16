@@ -10,7 +10,7 @@ $(document).ready(function() {
 
 // recupere donnée contenu dans json user-7.json
 
-$.getJSON( "user-7.json", function( data ) {
+$.getJSON( "http://vps227573.ovh.net/u-7.json", function( data ) {
 	var elts = $("[elt]");
 	
 	for (var i = 0; i < elts.length; i++) {
