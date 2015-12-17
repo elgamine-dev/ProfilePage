@@ -1,14 +1,22 @@
-
+body {
+	margin:0;
+}
 
 #container {
-	margin:auto;
+	
 	background-color: #dcedc8;
 	
 }
 
+#jumbotron {
+
+	width: 940px;
+	margin: auto;
+}
+
 img {
 	margin-top: 40px;
-	margin-left:35%;
+	margin-left:40%;
 	border-radius: 50%;
 	width: 300px;
 	height: 300px;
@@ -35,7 +43,7 @@ menu {
 	margin-right:70px;
 	opacity: 0.5;
 	color:#dce775;
-
+	padding: 5px;
 }
 
 h1 {
@@ -68,3 +76,4 @@ a:hover {
 .paragraphe {
 	display: none;
 }
+

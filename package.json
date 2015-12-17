@@ -38,7 +38,9 @@
   "bugs": {
     "url": "https://github.com/Nytramr/npm-zepto/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mustache": "^2.2.1"
+  },
   "description": "An automatic CommonJS Zepto wrapper",
   "devDependencies": {},
   "directories": {},
